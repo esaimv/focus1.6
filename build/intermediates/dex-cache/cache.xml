@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.1_a4f82a48aa6a0e0d4e95598c8d2c66b4057ef2b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_5fd8a3652e50fd61ea999ea31f915ab2bd09646a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_3c5ca7d196f6d562f8d679c6a79655411e82df64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_836cf95960933f0e1d813d4271fff5805046abe7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.2.1_3ddca858e01ed03d0b79ceae8bc36b3255922f58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.2.1_1329229f6a60659301f7bc68575f37490e9bf6ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_2cec4c5c43eaec06beec00ddfda165015b5ba710\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.2.1_9f8fcb3e81e165dfeb708ebf7c5d80cac8926bd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ca983003bfb3543a3e5b983ac1b0255aa61c189">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_684384831075211ccdb4a36b518270ebe964108b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_e2c341ddc2b52811805673d395b5f19ed6fcd0a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_cbc886e175f285bd48596ff6e748bb808a493679\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_b2748f9757882550c087909c429418decef017e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_1227cdbf0aef5a1b14b436ba15237d9900058676\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_4e1843bd8386b09c6ca3d659df25ef219f58cdc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_3591955ba7b1b27852f03a8c4d51e9e1a1a08cf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_692761e2c29d4a17eab05bf9fdcdfa05318d7194\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_e6fd55269ba046cb886771331c3ecd54db574351\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37c29911b5eec83fa789a3ae9544d4a24746e0dc">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d54d02f563c856f2cbfbd985da7537bcc2665efa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.1_b4b9aa3824b66aecc590b00ef8f0e0a992b4ee45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_e97626b9e7e18e67c2ded8be6239b408ba62b8fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.22.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5cbc9214ee567ea6ef56fb2707d48e58d240fc2">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.22.1_0d00ff0d33b3ad88d06c7495f8f8dd3e182b1ac3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.1_29c2b0a32fdc20e1047cbe51529228c9a214c94c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.2.1_3b1b8896e079af59a72afc3c6a1eb006a3b738ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_cb3c61c78a55b084b14515f44e25ae229517c4f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_7e2e6188c87127802e62a1e18f450ea0ad7aa4b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_c5219c3cd425f8f1ca1309246cac6f6181c50986\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Esai\AndroidStudioProjects\focus1.5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_44452d6811d721ca1479a0edc5dc9b0ea5e76ee3\classes.dex" />
+    </item>
+
+</items>
